@@ -39,6 +39,26 @@ export const projects = [
     visit: "https://github.com/RoughGhost/chat-app",
     id: 3,
   },
+  {
+    title: "Etheruem Transaction App",
+    description:
+      "This is a functioning Etheruem Transaction app built with Solidity, Smart Contract and Tailwind. It can be used to send Etheruem Across the World",
+    image: "/images/project-5.png",
+    tags: ["Solidity", "Blockchain", "Next.js", "Tailwind"],
+    source: "https://kryptoapp-strivesteve.netlify.app",
+    visit: "https://github.com/RoughGhost/blockchain-app",
+    id: 4,
+  },
+  {
+    title: "CMS Blog",
+    description:
+      "This is CMS Blog created with graphql and tailwind. And it is Equally responsive across all mobile devices",
+    image: "/images/project-6.png",
+    tags: ["Graphql", "Tailwind"],
+    source: "https://cms-blog-strivesteve.vercel.app",
+    visit: "https://github.com/RoughGhost/cms_blog",
+    id: 5,
+  },
 ];
 
 export const TimeLineData = [
