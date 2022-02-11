@@ -59,6 +59,16 @@ export const projects = [
     visit: "https://github.com/RoughGhost/cms_blog",
     id: 5,
   },
+  {
+    title: "Restaurant Website",
+    description:
+      "This a Super Cool Restaurant Website, And it is Built with React.js and CSS. It Shows all possibilities of CSS and it is also Responsive too. ",
+    image: "/images/project-7.png",
+    tags: ["React.js", "CSS3"],
+    source: "https://strivesteve-restaurant.netlify.app",
+    visit: "https://github.com/RoughGhost/steve-restuarant",
+    id: 6,
+  },
 ];
 
 export const TimeLineData = [
