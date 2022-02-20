@@ -69,6 +69,16 @@ export const projects = [
     visit: "https://github.com/RoughGhost/steve-restuarant",
     id: 6,
   },
+  {
+    title: "Opensea Marketplace Clone",
+    description:
+      "This a Opensea Marketplace Clone and also displays the Bored Ape Yacht Collections and also Etheruem Prices.  ",
+    image: "/images/project-8.png",
+    tags: ["Next.js", "TailwindCSS", "Web3.0"],
+    source: "https://opensea-clone01.vercel.app",
+    visit: "https://github.com/RoughGhost/NFT-project",
+    id: 7,
+  },
 ];
 
 export const TimeLineData = [
