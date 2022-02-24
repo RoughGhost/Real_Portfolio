@@ -84,7 +84,7 @@ export const projects = [
     description:
       "This is a Uniswap Transaction Clone Created with Next.js and Solidity, It can Transfer Etheruem Worldwide",
     image: "/images/project-9.png",
-    tags: ["Next.js", "TailwindCSS", "Solidity", "Sanity Stuido"],
+    tags: ["Next.js", "TailwindCSS", "Solidity", "Sanity Studio"],
     source: "https://uniswap-clone-strivesteve.vercel.app",
     visit: "https://github.com/RoughGhost/uniswap_clone",
     id: 8,
