@@ -89,6 +89,16 @@ export const projects = [
     visit: "https://github.com/RoughGhost/uniswap_clone",
     id: 8,
   },
+  {
+    title: "Weirdos NFT Landing Page",
+    description:
+      "This is an NFT Landing page created with React.js and Styled with Styled-components",
+    image: "/images/project-10.png",
+    tags: ["React.js", "Styled-components"],
+    source: "https://strivesteve-nftlandingpage.netlify.app",
+    visit: "https://github.com/RoughGhost/nft-landing-page",
+    id: 9,
+  },
 ];
 
 export const TimeLineData = [
