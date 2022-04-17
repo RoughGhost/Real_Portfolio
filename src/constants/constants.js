@@ -99,6 +99,15 @@ export const projects = [
     visit: "https://github.com/RoughGhost/nft-landing-page",
     id: 9,
   },
+  {
+    title: "NFT Application with React-Native ",
+    description:
+      "This is an App built with React-Native, that can display NFTS Collections and members who bidded NFTS.",
+    image: "/images/project-11.png",
+    tags: ["React-Native", "Expo", "React"],
+    visit: "https://github.com/RoughGhost/nft-react_native",
+    id: 10,
+  },
 ];
 
 export const TimeLineData = [
