@@ -112,7 +112,7 @@ export const projects = [
     title: " Food Delivery App with React-Native ",
     description:
       "This is an App built with React-Native, that can just the Home Section and Navbar Collection of a Food Delivery App",
-    image: "/images/project-12",
+    image: "/images/project-12.png",
     tags: ["React-Native", "Expo", "React"],
     visit:
       "https://github.com/RoughGhost/food-app_react-native/tree/main/React-Native/food-app",
