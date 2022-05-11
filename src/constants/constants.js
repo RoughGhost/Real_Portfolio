@@ -99,6 +99,25 @@ export const projects = [
     visit: "https://github.com/RoughGhost/nft-landing-page",
     id: 9,
   },
+  {
+    title: "NFT Application with React-Native ",
+    description:
+      "This is an App built with React-Native, that can display NFTS Collections and members who bidded NFTS.",
+    image: "/images/project-11.png",
+    tags: ["React-Native", "Expo", "React"],
+    visit: "https://github.com/RoughGhost/nft-react_native",
+    id: 10,
+  },
+  {
+    title: "MERN Stack Tour App ",
+    description:
+      "This is a MERN Stack ap, that shows TOURS added by different users and also New Users can login and it shows details of all the Tours available",
+    image: "/images/project-12.png",
+    tags: ["React", "Redux", "MongoDB", "Node.js", "Express"],
+    source: "https://tourhavens.netlify.app/",
+    visit: "https://github.com/RoughGhost/tour_webapp",
+    id: 11,
+  },
 ];
 
 export const TimeLineData = [
