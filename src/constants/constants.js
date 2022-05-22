@@ -118,6 +118,16 @@ export const projects = [
     visit: "https://github.com/RoughGhost/tour_webapp",
     id: 11,
   },
+  {
+    title: "CoinMarketCap Clone ",
+    description:
+      "This is CoinMaketCap clone that handles smart contract and also Metamask  Authentications",
+    image: "/images/project-13.png",
+    tags: ["React", "Solidity", "TailwindCSS"],
+    source: "https://main--strivesteve-coinmarket.netlify.app/",
+    visit: "https://github.com/RoughGhost/coinmarket",
+    id: 12,
+  },
 ];
 
 export const TimeLineData = [
