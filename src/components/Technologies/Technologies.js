@@ -1,5 +1,6 @@
 import React from "react";
 import { DiFirebase, DiReact, DiZend } from "react-icons/di";
+
 import {
   Section,
   SectionDivider,
@@ -21,7 +22,8 @@ const Technologies = () => (
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
       I have worked with a varieties of Technologies in web development. From
-      Back-end to Front-end.
+      Back-end to Front-end. I also have specialities in other areas too, like
+      Marketing, Copywritng and Graphic Design.
     </SectionText>
     <List>
       <ListItem>
