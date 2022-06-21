@@ -128,6 +128,16 @@ export const projects = [
     visit: "https://github.com/RoughGhost/coinmarket",
     id: 12,
   },
+  {
+    title: "Admin Dashboard",
+    description:
+      "This is an Admin Dashboard that offers lots of tools and functionality too",
+    image: "/images/project-14.png",
+    tags: ["React", "Syfusion", "TailwindCSS"],
+    source: "https://strivesteve-dashboard.netlify.app/",
+    visit: "https://github.com/RoughGhost/admin-dahsboard",
+    id: 13,
+  },
 ];
 
 export const TimeLineData = [
