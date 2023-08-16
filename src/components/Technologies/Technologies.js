@@ -1,5 +1,6 @@
 import React from "react";
-import { DiFirebase, DiReact, DiZend } from "react-icons/di";
+import { DiFirebase, DiMailchimp, DiReact, DiZend } from "react-icons/di";
+import { BiLogoDigitalocean, BiMessageAltDetail } from "react-icons/bi";
 
 import {
   Section,
@@ -21,38 +22,39 @@ const Technologies = () => (
     <br />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      I have worked with a varieties of Technologies in web development. From
-      Back-end to Front-end. I also have specialities in other areas too, like
-      Marketing, Copywritng and Graphic Design.
+      Throughout my journey in the dynamic realm of digital marketing, I've had
+      the privilege of harnessing an array of cutting-edge technologies to
+      amplify brand presence, engage audiences, and drive tangible results.
+      These technologies have been instrumental in shaping impactful campaigns,
+      optimizing strategies, and unleashing the full potential of digital
+      platforms. Here's a glimpse into the tech tapestry I've woven:
     </SectionText>
     <List>
       <ListItem>
-        <DiReact size="3rem" />
+        <BiMessageAltDetail size="3rem" />
         <ListContainer>
-          <ListTitle>Front-End</ListTitle>
+          <ListTitle>Digital Marketing</ListTitle>
           <ListParagraph>
-            Experience with <br />
-            React.js and Next.js
-          </ListParagraph>
-        </ListContainer>
-      </ListItem>
-      <ListItem>
-        <DiFirebase size="3rem" />
-        <ListContainer>
-          <ListTitle>Back-End</ListTitle>
-          <ListParagraph>
-            Experience with <br />
-            MongoDB and Databases
+            I am an experienced Digital Marketer
+            <br /> with expertise in SEO, social media, pay-per-click
+            advertising, user experience optimization, content creation, and
+            integration of emerging technologies. I am passionate about
+            innovation and committed to collaborating with you to achieve
+            unparalleled success in your digital journey.
           </ListParagraph>
         </ListContainer>
       </ListItem>
       <ListItem>
         <DiZend size="3rem" />
         <ListContainer>
-          <ListTitle>Graphics Design</ListTitle>
+          <ListTitle>Marketing Coach</ListTitle>
           <ListParagraph>
-            Experience with <br />
-            Corel Draw and other Design Tools
+            With a rich and diverse background as a Marketing Coach <br /> I
+            bring a wealth of experience to guide businesses towards their
+            growth aspirations. Over 2 years, I've empowered entrepreneurs and
+            teams to unravel the intricacies of marketing, helping them craft
+            resonant brand stories, devise impactful campaigns, and unlock the
+            true potential of their digital presence.
           </ListParagraph>
         </ListContainer>
       </ListItem>

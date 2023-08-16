@@ -67,10 +67,11 @@ const Timeline = () => {
     <Section>
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        I am a Perceptive Web Developer with the Skills of Web Development, and
-        I use it to Build Modern Day Web Applications. I also possess high
-        quality skills in Graphic Design, Copywriting and Marketing, and I use
-        this skills to give businesses massive success.
+        I'm a passionate and dynamic force in the realms of Digital Marketing
+        and Marketing Coaching, with a mission to catalyze businesses towards
+        remarkable success. With over 2 years of experience, I've navigated the
+        ever-evolving digital landscape, transforming brands through the fusion
+        of data-driven strategies and the art of coaching excellence.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScoll={handleScroll}>
         <>

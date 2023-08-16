@@ -37,7 +37,7 @@ const Footer = () => {
           <SocialIcons href="https://github.com/RoughGhost">
             <AiFillGithub size="3rem" />
           </SocialIcons>
-          <SocialIcons href="https://www.linkedin.com/in/stephen-louis-311a2a211">
+          <SocialIcons href="https://www.linkedin.com/in/creative-stephen-louis">
             <AiFillLinkedin size="3rem" />
           </SocialIcons>
           <SocialIcons href="https://www.facebook.com/stephen.louis.3110">

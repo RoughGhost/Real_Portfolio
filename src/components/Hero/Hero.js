@@ -16,12 +16,18 @@ const Hero = (props) => (
         Welcome to My Personal Portfolio
       </SectionTitle>
       <SectionText>
-        My Aim is to use my Acquired Knowledge of Programming, Copywriting,
-        Graphics Designs and Marketing to Help Companies and also Individuals
-        build up thier Businesses to a High level of Standard and achieve
-        massive success.
+        You have arrived at AstraStream Digital, where we not only specialize in
+        digital marketing but also serve as your committed growth allies. Our
+        fundamental principles revolve around a robust Unique Selling
+        Proposition that flawlessly merges data-based digital marketing
+        expertise with tailored coaching tactics, propelling businesses to
+        unparalleled revenue peaks.
       </SectionText>
-      <Button onClick={() => (window.location = "https://google.com")}>
+      <Button
+        onClick={() =>
+          (window.location = "https://www.facebook.com/stephen.louis.3110")
+        }
+      >
         Learn More
       </Button>
     </LeftSection>
